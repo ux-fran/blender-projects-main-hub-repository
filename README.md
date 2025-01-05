@@ -30,10 +30,18 @@ Here are some shortcuts to key resources:
 
 Here’s a sneak peek at some of my projects. Visit the Wiki for the full list!
 
-- **Darius Sculpt**: A deep dive into character sculpting.
+- **Emilia Sculpt**: My experience of my first type scultping a character.
+![image](https://github.com/user-attachments/assets/babebace-b9da-4655-bf2d-f7a0eb27bb7a)
+
+  
 - **Cybercity Environment**: Building a futuristic cityscape.
-- **Hero Object Design**: Creating an abstract centerpiece in a detailed environment.
-- **Lighting Tutorials**: Experiments and lessons in mastering Blender lighting.
+![image](https://github.com/user-attachments/assets/78551ecc-bc88-448e-a839-2759101727da)
+
+
+- **Rosa model**: My first time modeling a character.
+![image](https://github.com/user-attachments/assets/098b9e95-63a1-4222-9980-7fb777740621)
+
+
 
 ---
 
