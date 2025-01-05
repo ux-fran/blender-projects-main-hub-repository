@@ -6,11 +6,13 @@ This repository (a.k.a "a project folder") is the central hub for all my Blender
 
 ## 🌟 Start Here: The Wiki
 
-The **[Blender-Projects-Repo Wiki](https://github.com/ux-fran/blender-projects-repo/wiki)** is your main starting point. It offers:
+The **[Blender-Projects-Repo Wiki](https://github.com/ux-fran/blender-projects-repo/wiki)** is your main starting point. 
+I created this Wiki because I can create nice wiki-pages with a more organized way of presenting my projects. 
 
-- 🌐 **Project Overviews**: Explore all my active and completed Blender projects.
-- 📋 **Progress Updates**: Track milestones, goals, and achievements.
-- 🔗 **Links to Individual Repositories**: Dive deeper into specific projects.
+It offers:
+- 🌐 **Project Overviews**: Explore all my active and completed Blender projects, with links to their individual repositories (a.k.a. "project folders")
+- 📋 **Progress Updates**: All the projects have their own page on which I dive a little deeper into the making of and links to external resources.
+- 🔗 **Links to Individual Repositories**: These repositories contain all the issues (a.k.a "steps"), milestones, goals, and achievements.
 
 👉 **[Visit the Wiki](https://github.com/ux-fran/blender-projects-repo/wiki)** to explore everything!
 
