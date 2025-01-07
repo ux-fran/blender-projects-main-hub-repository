@@ -1,4 +1,4 @@
-# Welcome to the Blender Projects Hub by Fran 43CG! 🎨✨
+# Welcome to the Blender Projects Main Hub by Fran 43CG! 🎨✨
 
 This main repository is the central hub for all my Blender projects. Whether you're here for inspiration, learning, or just curiosity—welcome aboard! 🚀  
 
@@ -20,13 +20,13 @@ Note: I don’t version control my Blender files in GitHub. Instead, I track my 
 
 | **Project Name** | **Description** |
 |------------------|-----------------|
-| [Blender Projects Main Hub](https://github.com/ux-fran/blender-projects) | The central hub for all my Blender 3D projects, showcasing progress, project planning, and lessons learned. |
+| [Blender Projects Main Hub](https://github.com/ux-fran/blender-projects) | The central hub for all my Blender 3D projects, showcasing progress, project planning, and lessons learned. (This repo 😉) |
 | [Darius Male Hero Sculpt](https://github.com/ux-fran/darius-male-hero-sculpt-repo) | Creating a detailed male hero character named Darius, focusing on anatomy, armor design, and facial expressions. |
-| [Rosa Anime Character Sculpt](https://github.com/ux-fran/rosa-anime-character-repo) | Sculpting an anime-style character named Rosa, exploring stylized anatomy and expressive features. |
+| [Rosa Anime Character Sculpt](https://github.com/ux-fran/rosa-anime-character-repo) | Modeling an anime-style character named Rosa, exploring topology. |
 | [Turbine Factory Urban Decay](https://github.com/ux-fran/turbine-factory-urban-decay-repo) | An environment project inspired by Max Hay’s tutorials, recreating an abandoned factory with a massive turbine. |
-| [Cybercity Glowing Street](https://github.com/ux-fran/cybercity-glowing-street-repo) | A futuristic, neon-lit street scene emphasizing wet surfaces, glowing lights, and atmospheric effects. |
-| [Emilia Female Hero Sculpt](https://github.com/ux-fran/emilia-female-hero-sculpt-repo) | A sculpting project focused on a female hero character named Emilia, with an emphasis on character design and detailing. |
-| [Game Design Bax Music](https://github.com/ux-fran/game-design-bax-music-repo) | Game design elements and music compositions for the Bax project, integrating audio and interactive design. |
+| [Cybercity Glowing Street](https://github.com/ux-fran/cybercity-glowing-street-repo) | A futuristic, neon-lit street scene emphasizing wet surfaces, glowing lights, and atmospheric effects. Inspired by Max Hay’s tutorials. |
+| [Emilia Female Hero Sculpt](https://github.com/ux-fran/emilia-female-hero-sculpt-repo) | A sculpting project focused on a female hero character named Emilia, with an emphasis on character design and detailing. Inspired by SpeedChar's tutorials |
+| [Game Design Bax Music](https://github.com/ux-fran/game-design-bax-music-repo) |A fictive Game design for Bax Music. A final project for a Game Design Course. Designing a game, writing a 10-pager and popul;atig it with visuals of the game, that I created in Blender. |
 
 ---
 
