@@ -4,18 +4,9 @@ This main repository is the central hub for all my Blender projects. Whether you
 
 I’m documenting my journey in learning Blender, sharing how I plan, manage, and complete projects using **Agile project management** principles. Each project has its own repository with detailed backlogs, Kanban boards, and learnings. Everything is tracked here to **stay on track, reflect on lessons learned, and keep the momentum going**.
 
----
-
-## 🚀 My Agile Workflow for Blender Projects
-
-I apply **Agile project management** to my creative process to stay organized and finish projects efficiently. While GitHub is traditionally used for version control, I’m using it as a **project management tool** for my Blender projects.  
-
-Each project repo contains a backlog of tasks, progress tracking with Kanban boards, and detailed documentation about what I’ve learned. This way, I keep everything in one place—no scattered to-do lists or forgotten notes! By breaking down big goals into smaller, manageable steps, I make steady progress without feeling overwhelmed.
-
-Note: I don’t version control my Blender files in GitHub. Instead, I track my project progress and document insights to help others learn and stay on track.
+<img src="https://github.com/user-attachments/assets/fcb1ba39-40f4-43cb-b77b-179dd80a7057" width="150px">
 
 ---
-
 ## 📂 My Blender Project Repositories
 
 Here you'll find an overview of all my Blender projects.  
@@ -36,6 +27,15 @@ Feel free to jump in, explore, and follow along!
 
 ---
 
+## 🚀 My Agile Workflow for Blender Projects
+
+I apply **Agile project management** to my creative process to stay organized and finish projects efficiently. While GitHub is traditionally used for version control, I’m using it as a **project management tool** for my Blender projects.  
+
+Each project repo contains a backlog of tasks, progress tracking with Kanban boards, and detailed documentation about what I’ve learned. This way, I keep everything in one place—no scattered to-do lists or forgotten notes! By breaking down big goals into smaller, manageable steps, I make steady progress without feeling overwhelmed.
+
+Note: I don’t version control my Blender files in GitHub. Instead, I track my project progress and document insights to help others learn and stay on track.
+
+---
 ## 🧰 GitHub Terminology for Non-GitHub Users
 
 | **Term**          | **Explanation**                                                                 |
