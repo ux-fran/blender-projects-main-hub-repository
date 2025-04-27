@@ -20,7 +20,7 @@ Note: I don’t version control my Blender files in GitHub. Instead, I track my 
 
 | **Project Name** | **Description** |
 |------------------|-----------------|
-| [**Blender Projects Main Hub))](https://github.com/ux-fran/blender-projects) | **THIS** is the central hub for all my Blender 3D projects, showcasing progress, project planning, and lessons learned. (This repo 😉) |
+| [**Blender Projects Main Hub**)](https://github.com/ux-fran/blender-projects) | **THIS** is the central hub for all my Blender 3D projects, showcasing progress, project planning, and lessons learned. (This repo 😉) |
 | [Darius Male Hero Sculpt](https://github.com/ux-fran/darius-male-hero-sculpt-repo) | Creating a detailed male hero character named Darius, focusing on anatomy, armor design, and facial expressions. |
 | [Mosquito Mayhem Game](https://github.com/ux-fran/mosquito-mayhem-game) | Participating in the Pirate Software Game Jam 16, where I, together with my game dev friend created a little game (my first one!) |
 | [Rosa Anime Character Sculpt](https://github.com/ux-fran/rosa-anime-character-repo) | Modeling an anime-style character named Rosa, exploring topology. |
