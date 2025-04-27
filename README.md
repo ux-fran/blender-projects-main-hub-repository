@@ -18,6 +18,10 @@ Note: I don’t version control my Blender files in GitHub. Instead, I track my 
 
 ## 📂 My Blender Project Repositories
 
+Here you'll find an overview of all my Blender projects.  
+Each project is a step in my creative journey, where I explore new skills, ideas, and techniques. 🎨✨  
+Feel free to jump in, explore, and follow along!
+
 | **Repositories** | **Description** |
 |------------------|-----------------|
 | [**_Blender Projects Main Hub_**)](https://github.com/ux-fran/blender-projects) | **THIS** is the central hub for all my Blender 3D projects, showcasing progress, project planning, and lessons learned. (So, it's this repo that you are looking at right now... 😉 From here, you can jump into my Blender projects, I've listed them below.) |
