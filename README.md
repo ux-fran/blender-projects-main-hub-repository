@@ -24,7 +24,7 @@ Feel free to jump in, explore, and follow along!
 
 | **Repositories** | **Description** |
 |------------------|-----------------|
-| [**_Blender Projects Main Hub_**)](https://github.com/ux-fran/blender-projects) | **THIS** is the central hub for all my Blender 3D projects, showcasing progress, project planning, and lessons learned. (So, it's this repo that you are looking at right now... 😉 From here, you can jump into my Blender projects, I've listed them below.) |
+| [**_Blender Projects Main Hub_**](https://github.com/ux-fran/blender-projects) | **THIS** is the central hub for all my Blender 3D projects, showcasing progress, project planning, and lessons learned. (So, it's this repo that you are looking at right now... 😉 From here, you can jump into my Blender projects, I've listed them below.) |
 | **_Blender projects_** | **_Description_** |
 | [Darius Male Hero Sculpt](https://github.com/ux-fran/darius-male-hero-sculpt-repo) | <img src="https://github.com/user-attachments/assets/00a43ace-86d7-4c82-a3de-58187a7df87a" width="250px"> <br> Creating a detailed male hero character named Darius, focusing on anatomy, armor design, and facial expressions. | 
 | [Mosquito Mayhem Game](https://github.com/ux-fran/mosquito-mayhem-game) | <img src="https://github.com/user-attachments/assets/ac0cb4da-f338-400e-870b-8126a7586f6e" width="250px"> <br> Participating in the Pirate Software Game Jam 16, where I, together with my game dev friend created a little game (my first one!) |
